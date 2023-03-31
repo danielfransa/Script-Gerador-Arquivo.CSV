@@ -1,7 +1,7 @@
 # Script-Gerador-Arquivo.CSV
 Script em Python para a geração de arquivo .csv
 
-o Scrip tem a proposta de gerar dados aleatórios em um arquivo .csv o mesmo depois será usado para popular um Banco de Dados NOSQL no Monogo db para fins de estudos.
+O Scrip tem a proposta de gerar dados aleatórios em um arquivo .csv o mesmo depois será usado para popular um Banco de Dados Monogo db para fins de estudos.
 
 
 #Imagens
